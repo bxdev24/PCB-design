@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"SWin1";"SW_SPDT_PCM12";1;"SW_DPDT_x2";;;
+2;"J2,J1";"TestPoint_Pad_D10.0mm";2;"Conn_01x01";;;
+3;"U1";"CONV_TPS82150SILR";1;"TPS82150SILR";;;
+4;"Rpg1,Rled1,Rfbt1,Rfbb1";"R_1206_3216Metric";4;"R_US";;;
+5;"Jout1";"USB_A_Molex_67643_Horizontal";1;"USB_A";;;
+6;"Don1";"LED_1206_3216Metric";1;"LED";;;
+7;"Css1,Cout1,Cin1";"C_1206_3216Metric";3;"C";;;

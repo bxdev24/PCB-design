@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# TPS82150SILR
+#
+DEF TPS82150SILR U 0 40 Y Y 1 L N
+F0 "U" -400 750 50 H V L BNN
+F1 "TPS82150SILR" -400 -650 50 H V L BNN
+F2 "CONV_TPS82150SILR" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN "Price"
+F5 "TPS82150SILR" 0 0 50 H I L BNN "MP"
+F6 "17V Input 1A Synchronous Step-Down Converter MicroSiP Module With Integrated Inductor 8-uSiP -40 to 125" 0 0 50 H I L BNN "Description"
+F7 "https://pricing.snapeda.com/search/part/TPS82150SILR/?ref=eda" 0 0 50 H I L BNN "Purchase-URL"
+F8 "Warning" 0 0 50 H I L BNN "Availability"
+F9 "Texas Instruments" 0 0 50 H I L BNN "MF"
+F10 "USIP-8 Texas Instruments" 0 0 50 H I L BNN "Package"
+DRAW
+S -400 -600 400 700 0 0 10 f
+X EN 1 -600 300 200 R 40 40 0 0 I
+X EXP 10 600 -200 200 L 40 40 0 0 P
+X EXP 11 600 -200 200 L 40 40 0 0 P
+X EXP 12 600 -200 200 L 40 40 0 0 P
+X VIN 2 -600 600 200 R 40 40 0 0 W
+X GND 3 600 -500 200 L 40 40 0 0 W
+X VOUT_4 4 600 300 200 L 40 40 0 0 O
+X VOUT_5 5 600 200 200 L 40 40 0 0 O
+X FB 6 -600 100 200 R 40 40 0 0 I
+X PG 7 600 0 200 L 40 40 0 0 O
+X SS/TR 8 -600 0 200 R 40 40 0 0 I
+X EXP 9 600 -200 200 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
